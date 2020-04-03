@@ -1,1 +1,1 @@
-# ml_python
+# This is a new version of the machine learning program that we have been working with. Instead of music predictions, this program uses loan data to determine whether or not a borrower will default on their loan based on the interest rate and their FICO credit score. There are much more rows of data in the CSV but still only using 3 columns of data.
